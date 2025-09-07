@@ -1,2 +1,5 @@
 [server]
 fileWatcherType = "none"
+
+[global]
+serverPort = 8501
