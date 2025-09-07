@@ -3,6 +3,8 @@ from openai import OpenAI
 import pandas as pd
 import streamlit as st
 from datetime import datetime
+st.set_option('server.fileWatcherType', 'none')
+
 # -*- coding: utf-8 -*-
 
 # -----------------------------
